@@ -1,0 +1,1 @@
+WordPress Responsive Video is a pure CSS solution that makes oEmbed YouTube and Vimeo responsive / fluid.
