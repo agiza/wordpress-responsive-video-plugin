@@ -10,11 +10,24 @@
 }
 .responsive-video.vimeo {
 	padding-top: 0;
+	padding-bottom: 75%;
+}
+.responsive-video.vimeo.hd {
+	padding-bottom: 56.25%;
+}
+.responsive-video.flickr.img {
+	height: auto;
+	overflow: auto;
+	padding: 0
+}
+.responsive-video.flickr.img img{
+	width: 100%;
+	height: auto;
 }
 .responsive-video embed,
 .responsive-video iframe,
 .responsive-video object,
-.responsive-video video {
+.responsive-video video{
 	top: 0;
 	left: 0;
 	width: 100%;
