@@ -2,6 +2,9 @@ WordPress Responsive Video is a pure CSS solution that makes oEmbeds responsive 
 
 == Changelog ==
 
+= 0.3 =
+* Flickr 4:3, 16:9 and images now have correct aspect ratios
+
 = 0.2 =
 * Added support for all oEmbeds
 * Aspect ratios supported up to Flickr as per this listing: http://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F

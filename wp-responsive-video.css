@@ -15,6 +15,13 @@
 .responsive-video.vimeo.hd {
 	padding-bottom: 56.25%;
 }
+.responsive-video.flickr {
+	padding-top: 0;
+	padding-bottom: 67%;
+}
+.responsive-video.flickr.hd {
+	padding-bottom: 57.25%;
+}
 .responsive-video.flickr.img {
 	height: auto;
 	overflow: auto;
